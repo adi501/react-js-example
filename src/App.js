@@ -1,10 +1,10 @@
 import React from 'react';
-import ButtonEXP from './Components/ButtonEXP'
+import ConvertStringToNumber from './Components/ConvertStringToNumber'
 
 function App() {
   return (
     <div>
-      <ButtonEXP/>
+      <ConvertStringToNumber/>
     </div>
   );
 }
