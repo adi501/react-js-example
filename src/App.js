@@ -1,10 +1,10 @@
 import React from 'react';
-import SubstringEXP from './Components/SubstringEXP'
+import TernaryOperatorEXP2 from './Components/TernaryOperatorEXP2'
 
 function App() {
   return (
     <div>
-      <SubstringEXP/>
+      <TernaryOperatorEXP2/>
     </div>
   );
 }
