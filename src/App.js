@@ -1,10 +1,10 @@
 import React from 'react';
-import ConvertStringToNumber from './Components/ConvertStringToNumber'
+import SubstringEXP from './Components/SubstringEXP'
 
 function App() {
   return (
     <div>
-      <ConvertStringToNumber/>
+      <SubstringEXP/>
     </div>
   );
 }
